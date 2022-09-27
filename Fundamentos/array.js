@@ -11,7 +11,7 @@ console.log(valores.length)
 
 valores.push({id:3}, false, null, 'teste')
 console.log(valores)
-valores.pop('teste')
+valores.pop('test')
 console.log(valores)
 
 delete valores[0]
