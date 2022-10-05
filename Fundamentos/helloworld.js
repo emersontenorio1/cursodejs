@@ -6,7 +6,7 @@ console.log(quantidade);
 
 console.log(typeof '3')
 
-lert("emerson0");
+alert("emerson0");
 
 
 
