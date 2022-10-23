@@ -13,7 +13,7 @@ valores.push({id:3}, false, null, 'teste')
 console.log(valores)
 valores.pop('test')
 console.log(valores)
-
+valores[19] = "emerson"
 delete valores[0]
 console.log(valores)
 
