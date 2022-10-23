@@ -10,3 +10,5 @@ function um(um, dois){
 
 
 console.log(um(1,2))
+
+
