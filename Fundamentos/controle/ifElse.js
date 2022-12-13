@@ -16,4 +16,4 @@ const imprimirResultado = function(nota){
 
 imprimirResultado(10)
 //imprimirResultado("10")
-imprimirResultado(10)
+imprimirResultado('a')
